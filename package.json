@@ -1,0 +1,13 @@
+{
+  "name": "agenciy-creative-agency-framer-template-",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "react": ">=18",
+    "react-dom": ">=18",
+    "framer-motion": ">=11",
+    "unframer": "*",
+    "@motionone/dom": "*",
+    "lenis": "*"
+  }
+}
